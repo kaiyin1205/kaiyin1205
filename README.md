@@ -48,12 +48,6 @@ Python | Deep Learning · Computer Vision
 A deepfake detection model that leverages discrepancy-based learning to improve detection accuracy and scalability across diverse datasets. -->
 
 
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiyin1205&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiyin1205&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
 <p align="center">
   <i>Currently looking for Summer 2026 Internship opportunities 🌱</i><br>
   <i>歡迎實習合作機會，歡迎聯繫！</i>
