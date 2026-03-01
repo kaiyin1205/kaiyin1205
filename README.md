@@ -31,7 +31,7 @@ I'm a third-year student in the International Bachelor Program in Informatics (I
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-🚀 Featured Projects / 精選專案
+🚀 Featured Projects / 精選專案 <br><br>
 🔧 Renode-UART-Controller
 
 C++ | Embedded Systems Simulation
