@@ -4,7 +4,7 @@
   元智大學資訊學院英語學士班 · 大三
 </p>
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:kelly7857118@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/kaiyin1205">
@@ -12,14 +12,14 @@
   </a>
 </p>
 
-About Me / 關於我
-I'm a third-year student in the International Bachelor Program in Informatics (IBPI) at Yuan Ze University, passionate about systems programming and AI applications.
+About Me / 關於我 <br> <br>
+I'm a third-year student in the International Bachelor Program in Informatics (IBPI) at Yuan Ze University, passionate about systems programming and AI applications. <br>
 我是元智大學資訊學院英語學士班三年級學生，對系統程式設計與 AI 應用充滿熱情，目前積極尋找暑期實習機會。
 
-🎓 Yuan Ze University, IBPI（元智大學 IBPI）
-💻 Main language: C++ | Also learning: Python
-🔍 Interests: Systems Programming, Deep Learning, Embedded Systems
-📬 Contact: kelly7857118@gmail.com
+🎓 Yuan Ze University(YZU), International Bachelor Program of Informatics(IBPI)（元智大學資訊學院英語學士班）<br>
+💻 Main language: C++ | Also learning: Python <br>
+🔍 Interests: Systems Programming, Deep Learning, Embedded Systems <br>
+📬 Contact: kelly7857118@gmail.com <br>
 
 
 🛠️ Tech Stack / 技術能力
@@ -47,11 +47,6 @@ Python | Deep Learning · Computer Vision
 <!-- TODO: 請在此補充專案描述，例如：
 A deepfake detection model that leverages discrepancy-based learning to improve detection accuracy and scalability across diverse datasets. -->
 
-🔨 Coming Soon / 即將公開
-
-Project 3 — In progress...
-
-<!-- TODO: 補充第三個專案 -->
 
 📊 GitHub Stats
 <p align="center">
