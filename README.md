@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kaiyin Huang 黃楷茵 👋</h1>
 <p align="center">
   <b>Computer Science Student @ YZU IBPI</b><br>
-  元智大學資訊學院英語學士班 · 大三
+  元智大學資訊學院英語學士班 · 大四
 </p>
 <p align="center">
   <a href="mailto:kelly7857118@gmail.com">
@@ -13,8 +13,8 @@
 </p>
 
 About Me / 關於我 <br> <br>
-I'm a third-year student in the International Bachelor Program in Informatics (IBPI) at Yuan Ze University, passionate about systems programming and AI applications. <br>
-我是元智大學資訊學院英語學士班三年級學生，對系統程式設計與 AI 應用充滿熱情，目前積極尋找暑期實習機會。
+I'm a fourth-year student in the International Bachelor Program in Informatics (IBPI) at Yuan Ze University, passionate about systems programming and AI applications. <br>
+我是元智大學資訊學院英語學士班四年級學生，對系統程式設計與 AI 應用充滿熱情。
 
 🎓 Yuan Ze University(YZU), International Bachelor Program of Informatics(IBPI)（元智大學資訊學院英語學士班）<br>
 💻 Main language: C++ | Also learning: Python <br>
